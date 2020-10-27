@@ -28,5 +28,5 @@ Below are brief descriptions of personal and paid projects related to web develo
 | Lifestyle design from Nike.com| 
 |  #React.js #Atomize #NGINX #Nike |
 |For code click **[here](https://github.com/Crelloc/lifestyle-design)** |
-| **Details** <br> React application served as a static website using NGINX |
+| **Details** <br> Responsive react application served as a static website using NGINX |
 
