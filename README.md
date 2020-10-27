@@ -23,6 +23,7 @@ Below are brief descriptions of personal and paid projects related to web develo
 | #AWS #EC2 #NGINX #React.js| #AWS #EC2 #Docker #MongoDB Atlas #Node.js #React.js #Google Notes|
 | For code: Private | For code click **[here](https://github.com/Crelloc/google-keep-react)** |
 | **Details** <br> Migrated to Linode, previously deployed on Amazon’s AWS EC2 server where Nginx serves as a load balancer for my node js website.  Content Security Policy (CSP) and SSL implemented with Nginx, and network security configured in AWS with additional firewall configuration on the server using iptables. | **Details** <br> Google Keep mock web application, designed to save, edit, and delete personal notes. Deployed with Docker on AWS server. React and node full stack application where node api connects to external NoSQL database (MongoDB Atlas) and serves the react frontend. Network security configured in AWS with additional firewall configuration on the server using iptables. User administration and login feature implemented with AWS Cognito. | 
+| |
 | **[# Nike Design](http://www.design.thomasturner.net/)** | 
 | Lifestyle design from Nike.com| 
 |  #React.js #Atomize #NGINX #Nike |
