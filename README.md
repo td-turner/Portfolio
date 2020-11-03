@@ -27,6 +27,5 @@ Below are brief descriptions of personal and paid projects related to web develo
 | **[# Nike Design](http://www.design.thomasturner.net/)** | 
 | Lifestyle design from Nike.com| 
 |  #React.js #Atomize #NGINX #Nike |
-|For code click **[here](https://github.com/Crelloc/lifestyle-design)** |
 | **Details** <br> Responsive react application served as a static website using NGINX |
 
